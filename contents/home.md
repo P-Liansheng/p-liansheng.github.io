@@ -6,7 +6,7 @@ I'm a Ph.D student from the [School of Finance](https://sof.sufe.edu.cn/), [Shan
 
 #### Contact
 
-Email: peng.liansheng@hotmail.com
+Email: peng.liansheng[at]hotmail.com
 
 #### Education
 Ph.D. in Finance from Shanghai University of Finance and Economics, 2021-2026(expected).\
