@@ -1,17 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6282319)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I'm a Ph.D student from the [School of Finance](https://sof.sufe.edu.cn/), [Shanghai University of Finance and Economics](https://www.sufe.edu.cn/). My research focuses on empirical asset pricing and behavioral finance, with particular interest in topics such as expected returns, mispricing, information asymmetry, and mutual fund.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: peng.liansheng@hotmail.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D. in Finance from Shanghai University of Finance and Economics, 2021-2026(expected).\
+B.S. in Economics from Huazhong University of Science and Technology, 2017-2021.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
