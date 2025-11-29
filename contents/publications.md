@@ -15,3 +15,5 @@ We examine the pricing of systematic information asymmetry, induced by Chinese g
 
 #### Working in Progress
 - <strong>The FOMC Pulse of Anomalies</strong>
+
+- <strong>Morning Momentum</strong>
