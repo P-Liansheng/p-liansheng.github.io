@@ -8,9 +8,10 @@ The momentum effect exists in Chinese stock markets, but momentum signals are co
 - <strong>[Systematic Information Asymmetry and Equity Costs of Capital](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114409)</strong> with Haoyu Xu\
 We examine the pricing of systematic information asymmetry, induced by Chinese government intervention, in the cross-section of stock returns. Using market-wide order imbalance as a proxy for systematic information, we observe a strong correlation between the standard deviation of market-wide order imbalance and economic policy uncertainty. Furthermore, we find a significant&nbsp; positive relationship between the sensitivity of stocks to systematic information asymmetry (OIBeta) and their future returns. The average monthly return spread between high- and low-OIBeta portfolios ranges from 1.30% to 1.77%, and this result remains robust after controlling for traditional risk factors. Our results provide substantial evidence that the pricing of OIBeta is driven by systematic information asymmetry rather than alternative explanatory channels.
 
-- <strong>The Role of Central Firms in the Economic Networks: Evidence from China</strong> with Haoyu Xu
-
 - <strong>Mutual Fund Common Ownership and Connected-Firm Momentum Spillover: Evidence from China</strong> with Haoyu Xu and Zhixiang Fang
+
+#### Publications
+- <strong>[The Role of Central Firms in the Economic Networks: Evidence from China](https://doi.org/10.1016/j.pacfin.2025.103013)</strong> with Haoyu Xu, Pacific-Basin Finance Journal, 2026, 95: 103013.
 
 #### Working in Progress
 - <strong>The FOMC Pulse of Anomalies</strong>
