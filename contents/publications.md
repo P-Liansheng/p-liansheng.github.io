@@ -5,7 +5,7 @@ Government policy impacts financial markets, creating systematic information asy
 - <strong>[Finding the Missing Momentum in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5133979)</strong> with Haohan Wang and Haoyu Xu\
 The momentum effect exists in Chinese stock markets, but momentum signals are contaminated by noise. We use the decomposition method of Hou and Loh (2016) to examine a large number of potential explanations that may contribute to or weaken the momentum effect. The results show that variables related to retail investor significantly dampen the momentum effect. Similar to findings in the U.S. stock market, underreaction to fundamental information is the main driver of momentum. We construct a Chinese momentum strategy by removing the impeding components, yielding a monthly five-factor alpha of 1.26%, which is comparable to results in the literature.
 
-- <strong>[Measure Mispricing with Price]</strong> with Haohan Wang and Haoyu Xu\
+- <strong>Measure Mispricing with Price</strong> with Haohan Wang and Haoyu Xu\
 This paper constructs a direct measure of mispricing, the price wedge shock (WS), which captures the deviation between a stock's price and the present value of expected dividends, departing from prior literature's reliance on inferential proxies. A hedge portfolio long (short) the highest (lowest) WS quintiles earns a significant 0.53% to 1.20% monthly return, robust to risk factor and characteristic controls. The effect of WS is stronger among stocks with higher limits to arbitrage and during high sentiment periods. Furthermore, WS negatively predicts future investment, especially for high Tobin's q firms, indicating that undervalued (overvalued) firms underinvest (overinvest).
 
 
