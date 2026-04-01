@@ -1,5 +1,5 @@
 #### Working Papers
-- <strong>[Market Risk, Systematic Overpricing, and Factor Pricing</strong> with Haoyu Xu\
+- <strong>Market Risk, Systematic Overpricing, and Factor Pricing</strong> with Haoyu Xu\
 Portfolios sorted on risk-factor or mispricing-factor exposures exhibit negligible return spreads. Motivated by the entanglement between exposure to market risk and exposure to overoptimism, we find that return spreads embed two countervailing components: the risk premium and the overpricing correction. After purging the mispricing component, we document significant risk components for these spreads. Market risk emerges as the dominant common factor underlying risk components. The mispricing component is predicted by overoptimistic aggregate long-term fundamental beliefs and investor sentiment and corresponds to future belief disappointment, whereas the risk component is predicted by investor risk aversion and commands a countercyclical risk premium.
 
 - <strong>[Systematic Information Asymmetry and Equity Costs of Capital: Evidence from China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5114409)</strong> with Haoyu Xu\
