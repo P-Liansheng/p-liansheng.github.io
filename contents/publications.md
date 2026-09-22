@@ -13,9 +13,9 @@ This paper constructs a direct measure of mispricing, the price wedge shock (WS)
 
 #### Publications
 - <strong>[Mutual fund common ownership and connected-firm momentum spillover: Evidence from China](https://doi.org/10.1016/j.pacfin.2026.103338)</strong> with Haoyu Xu and Zhixiang Fang, Pacific-Basin Finance Journal, 2026, 100: 103338.
-- 
+
 - <strong>[The Role of Central Firms in the Economic Networks: Evidence from China](https://doi.org/10.1016/j.pacfin.2025.103013)</strong> with Haoyu Xu, Pacific-Basin Finance Journal, 2026, 95: 103013.
-- 
+
 #### Working in Progress
 - <strong>The FOMC Pulse of Anomalies</strong>
 
