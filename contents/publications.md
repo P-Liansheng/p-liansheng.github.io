@@ -11,11 +11,11 @@ The momentum effect exists in Chinese stock markets, but momentum signals are co
 - <strong>Measure Mispricing with Price</strong> with Haohan Wang and Haoyu Xu\
 This paper constructs a direct measure of mispricing, the price wedge shock (WS), which captures the deviation between a stock's price and the present value of expected dividends, departing from prior literature's reliance on inferential proxies. A hedge portfolio long (short) the highest (lowest) WS quintiles earns a significant 0.53% to 1.20% monthly return, robust to risk factor and characteristic controls. The effect of WS is stronger among stocks with higher limits to arbitrage and during high sentiment periods. Furthermore, WS negatively predicts future investment, especially for high Tobin's q firms, indicating that undervalued (overvalued) firms underinvest (overinvest).
 
-- <strong>Mutual Fund Common Ownership and Connected-Firm Momentum Spillover: Evidence from China</strong> with Haoyu Xu and Zhixiang Fang
-
 #### Publications
+- <strong>[Mutual fund common ownership and connected-firm momentum spillover: Evidence from China](https://doi.org/10.1016/j.pacfin.2026.103338)</strong> with Haoyu Xu and Zhixiang Fang, Pacific-Basin Finance Journal, 2026, 100: 103338.
+- 
 - <strong>[The Role of Central Firms in the Economic Networks: Evidence from China](https://doi.org/10.1016/j.pacfin.2025.103013)</strong> with Haoyu Xu, Pacific-Basin Finance Journal, 2026, 95: 103013.
-
+- 
 #### Working in Progress
 - <strong>The FOMC Pulse of Anomalies</strong>
 
